@@ -1,0 +1,2 @@
+# Claude Code MCP config (contains Jira Personal Access Token — keep out of git)
+.mcp.json
