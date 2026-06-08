@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GeldGuide.UI.props" />
+</Project>

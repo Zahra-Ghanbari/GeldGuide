@@ -1,0 +1,6 @@
+@GeldGuide.Server_HostAddress = http://localhost:5275
+
+GET {{GeldGuide.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,9 @@
+﻿namespace GeldGuide.Mobile;
+
+public partial class MainPage : ContentPage
+{
+	public MainPage()
+	{
+		InitializeComponent();
+	}
+}

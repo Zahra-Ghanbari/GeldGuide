@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GeldGuide.Core/GeldGuide.Core.csproj" />
+    <Project Path="src/GeldGuide.Mobile/GeldGuide.Mobile.csproj" />
+    <Project Path="src/GeldGuide.Resources/GeldGuide.Resources.csproj" />
+    <Project Path="src/GeldGuide.Server/GeldGuide.Server.csproj" />
+    <Project Path="src/GeldGuide.UI/GeldGuide.UI.csproj" />
+    <Project Path="src/GeldGuide.Web/GeldGuide.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/GeldGuide.Core.Tests/GeldGuide.Core.Tests.csproj" />
+  </Folder>
+</Solution>

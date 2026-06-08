@@ -1,0 +1,12 @@
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\bin\Debug\net10.0\GeldGuide.Resources.deps.json
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\bin\Debug\net10.0\GeldGuide.Resources.dll
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\bin\Debug\net10.0\GeldGuide.Resources.pdb
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\obj\Debug\net10.0\GeldGuide.Resources.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\obj\Debug\net10.0\GeldGuide.Resources.AssemblyInfoInputs.cache
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\obj\Debug\net10.0\GeldGuide.Resources.AssemblyInfo.cs
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\obj\Debug\net10.0\GeldGuide.Resources.csproj.CoreCompileInputs.cache
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\obj\Debug\net10.0\GeldGuide.Resources.sourcelink.json
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\obj\Debug\net10.0\GeldGuide.Resources.dll
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\obj\Debug\net10.0\refint\GeldGuide.Resources.dll
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\obj\Debug\net10.0\GeldGuide.Resources.pdb
+E:\GeldGuide\Source\GeldGuide\src\GeldGuide.Resources\obj\Debug\net10.0\ref\GeldGuide.Resources.dll
