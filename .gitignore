@@ -1,2 +1,86 @@
 # Claude Code MCP config (contains Jira Personal Access Token — keep out of git)
 .mcp.json
+
+## .gitignore for GeldGuide solution (Visual Studio / .NET / MAUI)
+
+# Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output folders
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+
+# Rider and IDE files
+.idea/
+*.sln.iml
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# ASP.NET / IIS / Kestrel
+artifacts/
+publish/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# User secrets and environment files
+.env
+secrets.json
+appsettings.*.Local.json
+
+# Mono / Xamarin / MAUI / mobile platform artifacts
+*.apk
+*.ap_
+*.ipa
+*.xcarchive
+*.app
+*.dSYM
+*.mobileprovision
+*.p12
+*.keystore
+local.properties
+gradle-app.setting
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+
+# Android Studio / Gradle
+/.gradle/
+**/.gradle/
+
+# macOS build files
+build/
+obj/
+
+# Rider caches
+/.idea/
+*.suo
+
+# Temporary files
+*~
+*.swp
+
+# Ignore Visual Studio Code workspace storage
+.vscode/*-workspace
+
