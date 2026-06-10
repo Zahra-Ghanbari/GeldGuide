@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\GeldGuide.Mobile.props" />
-</Project>
