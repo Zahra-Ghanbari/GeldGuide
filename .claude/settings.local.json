@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": [
+    "atlassian-jira"
+  ],
+  "enableAllProjectMcpServers": true
+}
