@@ -84,3 +84,6 @@ obj/
 # Ignore Visual Studio Code workspace storage
 .vscode/*-workspace
 
+.vs/
+
+*.bin
